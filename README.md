@@ -21,4 +21,7 @@ PROJECT VIDEO LINK(YOUTUBE)- https://youtu.be/Aqeyn_c0EEA
 
 PROJECT VIDEO LINK(GOOGLE DRIVE)- https://drive.google.com/file/d/1O4lPqBmYw-hYiWIv5Y4qAwzNZpkGze4A/view?usp=sharing
 
-HOSTED PROJECT LINK: https://hilarious-quaint-tanker.glitch.me
+HOSTED PROJECT LINK: 
+    1. https://hilarious-quaint-tanker.glitch.me/
+    2. https://infinite-badlands-67012.herokuapp.com/
+    
